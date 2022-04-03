@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "wzf-engine",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AimAssist",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
